@@ -1,0 +1,8 @@
+.statistics {
+  list-style: none;
+  padding: 20px;
+}
+
+.statistics__item + .statistics__item {
+  margin-top: 10px;
+}
